@@ -11,7 +11,7 @@
    preserveAspectRatio="none"
    version="1.1"
    id="svg6131"
-   sodipodi:docname="landing_paper.svg"
+   sodipodi:docname="valley.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata6137">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,28 +69,28 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter912"
-       x="-0.021012162"
-       width="1.0420243"
-       y="-0.027978408"
-       height="1.0559568">
+       id="filter985"
+       x="-0.020963438"
+       width="1.0419269"
+       y="-0.028065265"
+       height="1.0561305">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.87550675"
-         id="feGaussianBlur914" />
+         stdDeviation="0.87347656"
+         id="feGaussianBlur987" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter920"
-       x="-0.019268919"
-       width="1.0385378"
-       y="-0.031810374"
-       height="1.0636207">
+       id="filter991"
+       x="-0.020892187"
+       width="1.0417844"
+       y="-0.028193991"
+       height="1.056388">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.80287162"
-         id="feGaussianBlur922" />
+         stdDeviation="0.87050781"
+         id="feGaussianBlur993" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -109,48 +109,51 @@
      inkscape:pagecheckerboard="true"
      inkscape:zoom="5.92"
      inkscape:cx="20.468878"
-     inkscape:cy="58.305009"
-     inkscape:current-layer="layer1" />
+     inkscape:cy="59.052435"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="temp"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="path989"
+       d="m 100,4.38e-4 c -26.666667,0 -50.523353,6.0110092 -59.628906,34.472656 C 37.262151,44.190858 26.666667,59.574657 0,59.574657 V 74.102 c 26.666667,0 43.333333,-10.675781 50,-30.675781 6.666667,-20 23.333333,-39.1210935 50,-39.1210935 z"
+       style="display:inline;opacity:0.8;fill:#000000;filter:url(#filter991)" />
+    <path
+       style="display:inline;fill:#006680"
+       d="M 100,1 C 73.333333,1 49.476647,7.0110092 40.371094,35.472656 37.262151,45.19042 26.666667,60.574219 0,60.574219 v 14.527343 c 26.666667,0 43.333333,-10.675781 50,-30.675781 6.666667,-20 23.333333,-39.1210935 50,-39.1210935 z"
+       id="path965"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path975"
+       d="m 100,4.3046875 c -26.666667,0 -43.333333,19.1210935 -50,39.1210935 -6.666667,20 -23.333333,30.675781 -50,30.675781 V 79 C 26.666667,79 43.333333,69 50,49 56.666667,29 73.333333,19 100,19 Z"
+       style="display:inline;opacity:0.8;fill:#000000;filter:url(#filter985)" />
+    <path
+       style="display:inline;fill:#004455"
+       d="m 100,5.3046875 c -26.666667,0 -43.333333,19.1210935 -50,39.1210935 -6.666667,20 -23.333333,30.675781 -50,30.675781 V 80 C 26.666667,80 43.333333,70 50,50 56.666667,30 73.333333,20 100,20 Z"
+       id="path6129"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="upper"
-     style="display:inline">
-    <path
-       d="M 0,0 V 80 Q 40,80 50,50 60,20 100,20 V 0 Z"
-       id="path6129"
-       style="fill:#004455"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccsccc"
-       d="M 0,0.999649 V 76.101 c 26.666667,0 43.333333,-10.675675 50,-30.675675 6.666667,-20 23.333333,-39.1216219 50,-39.1216219 V 0.999649 Z"
-       id="path894"
-       style="fill:#000000;filter:url(#filter912);opacity:0.8"
-       inkscape:connector-curvature="0" />
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#006680"
-       id="path892"
-       d="m 0,0 v 75.101351 c 26.666667,0 43.333333,-10.675675 50,-30.675675 6.666667,-20 23.333333,-39.1216219 50,-39.1216219 V 0 Z"
-       sodipodi:nodetypes="ccsccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000000;filter:url(#filter920);opacity:0.8"
-       id="path918"
-       d="M 0,0.999676 V 61.574 c 26.666667,0 37.262679,-15.383587 40.371622,-25.101351 C 49.477175,8.0110019 73.333333,1.999325 100,1.999325 V 0.999676 Z"
-       sodipodi:nodetypes="ccsccc" />
-    <path
-       sodipodi:nodetypes="ccsccc"
+       style="display:inline;fill:#37abc8"
+       id="path972"
        d="m 0,0 v 60.574324 c 26.666667,0 37.262679,-15.383587 40.371622,-25.101351 C 49.477175,7.0113259 73.333333,0.999649 100,0.999649 V 0 Z"
-       id="path916"
-       style="fill:#37abc8"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="ccsccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="lower"
-     style="display:inline">
+     style="display:none">
     <path
        id="path6787"
        d="M 100,19 C 73.333333,19 56.666667,29 50,49 43.333333,69 26.666667,79 0,79 v 20 h 100 z"
